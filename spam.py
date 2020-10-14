@@ -25,9 +25,9 @@ banner = """
                                                      
 
  
-                          AUTHOR       :   swagkarna
+                          AUTHOR       :   DareDevilKinng
 
-                          CONTACT ME   :   github.com/swagkarna
+                          CONTACT ME   :   github.com/daredevilkinng
 
 """
 print(Style.BRIGHT+Fore.RED+banner+Fore.RESET)
