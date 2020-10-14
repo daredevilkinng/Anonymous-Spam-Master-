@@ -1,6 +1,7 @@
 # Anonymous-Spam-Master-
 
 ## Hello Annons! . This is Spam Bot v1.0. I have created this tool to spam  Comment Box.
+## Please don't change the description of code changing it won't make a coder. Respect Coders. Thank you.
 
 # Requirements :
 ## 1. Python 3.7+
